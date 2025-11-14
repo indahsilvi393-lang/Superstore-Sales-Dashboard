@@ -6,17 +6,11 @@ Dashboard ini dibuat menggunakan dataset *Superstore* dari Kaggle dan bertujuan 
 
 ## 📂 Dataset
 
-Dataset bersumber dari Kaggle:
 🔗 **Superstore Dataset – Kaggle**
+
 [https://www.kaggle.com/datasets/vivek468/superstore-dataset-final](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
-**Detail Dataset:**
-
-* Total **9,994 rows**
-* **21 columns**
-* Periode transaksi **2014–2017**
 ---
-
 ## 🛠 Tools & Techniques
 
 * **Power BI Desktop**
@@ -44,7 +38,7 @@ Dataset bersumber dari Kaggle:
 ## 📊 Dashboard Preview 
 
 
-![Superstore Dashboard](Animasion.gif)
+![Superstore Dashboard](Animation.gif)
 
 
 ## 🧠 What I Learned
